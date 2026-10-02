@@ -1,7 +1,6 @@
-# gtavps3_tools
-GTA V PS3 tools written in Rust to help with decrypting, disassembling and decompiling.
+### Tools written in Rust to help with decrypting, disassembling and decompiling PS3's GTA V game files.
 
-I am making this mostly because no one has solved Chiliad yet, and while trying, I realized how the process to navigate files should be faster and more efficient in 2026.
+I am making this mostly because no one has solved the Chiliad Mystery yet, and while trying, I realized how the process to navigate game files should be faster and more efficient in 2026, OpenIV will still be used in the process of navigating the game files but I feel the strong need to make extra tools to improve on some things and do others.
 
 These tools are, as of now, mostly for the PS3 version of GTA V, tested on Version 1.00. Since I don't have the Xbox version nor the PC version files, I am not working on compatibility YET. I do want to have them working as well, but I can't do this alone for sure. So this probably won't ever be finalized. If you do find a bug in version 1.00 of the PS3 game or can help me implement all of this, I would be very happy. :)
 
