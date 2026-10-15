@@ -1,4 +1,4 @@
-### Tools written in Rust to help with decrypting, disassembling and decompiling PS3's GTA V game files.
+### Tools written in Rust to help understanding and converting PS3's GTA V game files.
 
 I am making this mostly because no one has solved the Chiliad Mystery yet, and while trying, I realized how the process to navigate game files should be faster and more efficient in 2026.
 I feel the strong need to make extra tools to improve on some things and do some new things.
