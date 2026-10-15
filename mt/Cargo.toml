@@ -1,0 +1,9 @@
+[package]
+name = "ymt_cmt_converter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+flate2 = { version = "1", features = ["zlib"] }
+base64 = "0.22"
+libz-sys = "1.1.30"
