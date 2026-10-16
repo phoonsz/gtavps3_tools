@@ -1,0 +1,13 @@
+[package]
+name = "mt_tool"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "mt_tool"
+path = "src/main.rs"
+
+[dependencies]
+flate2 = { version = "1", features = ["zlib"] }
+libz-sys = "1"
+base64 = "0.22"
