@@ -1,7 +1,5 @@
 # mt\_tool Architecture & Reference
 
-Oct 15, 2026 · @phoonsz
-
 mt\_tool converts GTA V ped-metadata files between the console binary layout (`.cmt`), the PC binary layout (`.ymt`), and a portable XML form, preserving the original bytes wherever the edit allows it.
 
 ## Overview
