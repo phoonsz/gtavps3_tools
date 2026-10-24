@@ -9,3 +9,5 @@ Contact me on Discord to talk about bugs or if you want to help in any way: phoo
 About AI and my personal view: I am indeed using AI to help me with this. I mostly use DeepSeek AI to code, i do the reasoning myself, when i get stuck and don't know what im doing i ask Claude. I am actively intervening where I think it's best, I am not on "autopilot". Also, this project is a way that I found to learn about more file types and their compressions, encryptions and decryptions, translations and disassemblies. Also, I'm not paying for an agent. Nothing here is unachievable for free.
 
 Legal Disclaimer: I DO NOT CONDONE the use of any software on this repo for illegal reasons and/or to gain unfair advantages on any game. I did this for offline use with my own files. Every file here requires you to have the encryption keys of the game which you can get with your own game files. Also I am not providing any game code/files.
+
+Some tools used(sometimes their source code as well but enoughly changed): rage-cli, Codewalker, OpenIV, LibertyV
